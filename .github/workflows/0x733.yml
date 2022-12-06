@@ -1,7 +1,7 @@
 name: Otomatik Profil Güncelleyici
 
 env:
-  BRANCH_NAME: "master"
+  BRANCH_NAME: "main"
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 on:
@@ -10,11 +10,11 @@ on:
 
   push:
     branches:
-      - "master"
+      - "main"
 
   pull_request:
     branches:
-      - "master"
+      - "main"
 
 jobs:
   keyiflerolsun:
