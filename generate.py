@@ -48,8 +48,8 @@ class ReadmeGenerator:
         dosya.append(f"""\n\n  ---\n\n
 <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
-        <b>Projeler</b>
-        <i>(genişletmek için tıklayın!)</i>
+        <b>Projects</b>
+        <i>(Click to Expand!)</i>
     </summary>\n\n""")
         dosya.extend(self.__tablo_olustur(kartlar=kartlar))
 
