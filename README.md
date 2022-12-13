@@ -45,11 +45,11 @@
         <i>(Click to Expand!)</i>
     </summary>
 
-<a href="https://github.com/0x733/uBO" target="_blank"><img height="150px" width="45%" alt="uBO" src="https://github-readme-stats.vercel.app/api/pin/?username=0x733&repo=uBO&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> <a href="https://github.com/0x733/UnnecessaryFiles" target="_blank"><img height="150px" width="45%" alt="UnnecessaryFiles" src="https://github-readme-stats.vercel.app/api/pin/?username=0x733&repo=UnnecessaryFiles&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> <a href="https://github.com/0x733/beyzam" target="_blank"><img height="150px" width="45%" alt="beyzam" src="https://github-readme-stats.vercel.app/api/pin/?username=0x733&repo=beyzam&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> <a href="https://github.com/0x733/verified-account" target="_blank"><img height="150px" width="45%" alt="verified-account" src="https://github-readme-stats.vercel.app/api/pin/?username=0x733&repo=verified-account&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> 
+<a href="https://github.com/0x733/uBO" target="_blank"><img height="150px" width="45%" alt="uBO" src="https://github-readme-stats.vercel.app/api/pin/?username=0x733&repo=uBO&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> <a href="https://github.com/0x733/test" target="_blank"><img height="150px" width="45%" alt="test" src="https://github-readme-stats.vercel.app/api/pin/?username=0x733&repo=test&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> <a href="https://github.com/0x733/UnnecessaryFiles" target="_blank"><img height="150px" width="45%" alt="UnnecessaryFiles" src="https://github-readme-stats.vercel.app/api/pin/?username=0x733&repo=UnnecessaryFiles&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> <a href="https://github.com/0x733/verified-account" target="_blank"><img height="150px" width="45%" alt="verified-account" src="https://github-readme-stats.vercel.app/api/pin/?username=0x733&repo=verified-account&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A&icon_color=EF7F1A&locale=tr"/></a> 
 
 [![Otomatik Profil Güncelleyici](https://github.com/0x733/0x733/actions/workflows/0x733.yml/badge.svg)](https://github.com/0x733/0x733/actions/workflows/0x733.yml)
 
 
 
-Son Güncelleme: 12-12-2022 03:54:33
+Son Güncelleme: 13-12-2022 03:56:12
 </details>
