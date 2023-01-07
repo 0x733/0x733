@@ -17,7 +17,7 @@ on:
       - "main"
 
 jobs:
-  keyiflerolsun:
+  neo:
     runs-on: ubuntu-latest
 
     permissions: write-all
