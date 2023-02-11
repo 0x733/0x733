@@ -1,5 +1,5 @@
 <samp>
-  <h1 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Hello, I'm Neo!</h1>
+  ![](/img/img.svg)
 
 ---
 
@@ -51,5 +51,5 @@
 
 
 
-Son Güncelleme: 10-02-2023 16:11:27
+Son Güncelleme: 11-02-2023 03:47:37
 </details>
